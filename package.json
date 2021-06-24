@@ -1,0 +1,14 @@
+{
+  "name": "p2pdb-writer-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/p2pdb-writer-demo.git",
+  "author": "Tom Wilson <twilson63@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cuid": "^2.1.8",
+    "express": "^4.17.1",
+    "hyperbee": "^1.5.5",
+    "hyperspace": "^3.19.0"
+  }
+}
